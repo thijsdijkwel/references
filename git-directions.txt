@@ -1,0 +1,8 @@
+github —> create new repo
+browse to folder on terminal
+git init
+git status
+git add 
+git log
+git commit -m “msg”
+copy/paste last 2 lines to push 
