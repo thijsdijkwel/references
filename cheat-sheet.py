@@ -44,3 +44,5 @@ print (dir(name))
 # gives you more information on what a specific function does.
 # replace 'str' with any other method or function 
 print (help(str))
+
+# thank you jason
