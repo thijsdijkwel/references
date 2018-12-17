@@ -6,3 +6,12 @@ git add
 git log
 git commit -m “msg”
 copy/paste last 2 lines to push 
+
+When updating:
+
+Git status
+Git add
+    Individual files or all
+Git status
+Git commit -m "msg"
+Git push
